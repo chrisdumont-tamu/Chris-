@@ -1,0 +1,5 @@
+Integration:
+In the last week I have worked with dalton to create a complete wiring diagram for the integration of our subsystems
+
+Solo:
+Indicidually I have created all the necessary parts in AutoCAD to mount the distance sensors, Raspberry Pi, and Mast to the rover
