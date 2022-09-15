@@ -1,0 +1,5 @@
+Up until now I have:
+1. Created all 3d parts necessary to mount parts
+2. Mounted mast to rover
+3. Combined mine and daltons code
+4. Validated mast mount
