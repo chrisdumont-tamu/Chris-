@@ -1,0 +1,3 @@
+Me and Dalton Mounted all hardware to the rover, except for the camera gimble
+  Code between camera and navigation subsystems integrated
+Began soldering Navigation and Camera Positioning Circuits 
