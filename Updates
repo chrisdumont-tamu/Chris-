@@ -12,3 +12,13 @@ Solo:
 Indicidually I have created all the necessary parts in AutoCAD to mount the distance sensors, Raspberry Pi, and Mast to the rover
 
 Update 3:
+Me and Dalton Mounted all hardware to the rover, except for the camera gimble
+  Code between camera and navigation subsystems integrated
+Began soldering Navigation and Camera Positioning Circuits
+
+Update 4:
+Distance Sensor Circuit Soldered.
+  Works for 2 out of 3 distance sensors.
+  Going to resolder by next update
+Soldered Mast and Gimble Circuit
+  Needs testing
