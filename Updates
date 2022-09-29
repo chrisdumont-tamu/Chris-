@@ -1,22 +1,25 @@
-Update 1:
+Update 0 09/01/2022:
+Reverified all 403 completetions
+
+Update 1 09/08/2022:
 1. Created all 3d parts necessary to mount parts
 2. Mounted mast to rover
 3. Combined mine and daltons code
 4. Validated mast mount
 
-Update 2:
+Update 2 09/15/2022:
 Integration:
 In the last week I have worked with dalton to create a complete wiring diagram for the integration of our subsystems
 
 Solo:
 Indicidually I have created all the necessary parts in AutoCAD to mount the distance sensors, Raspberry Pi, and Mast to the rover
 
-Update 3:
+Update 3 09/22/2022:
 Me and Dalton Mounted all hardware to the rover, except for the camera gimble
   Code between camera and navigation subsystems integrated
 Began soldering Navigation and Camera Positioning Circuits
 
-Update 4:
+Update 4 09/29/2022:
 Distance Sensor Circuit Soldered.
   Works for 2 out of 3 distance sensors.
   Going to resolder by next update
